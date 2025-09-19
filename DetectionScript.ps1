@@ -31,3 +31,5 @@ if ($LastRunDate -lt (Get-Date).AddDays(-7)) {
 
 Write-Output "Logs already uploaded this week."
 exit 0
+
+# This Script is created by Emiel Maglalang.

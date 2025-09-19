@@ -79,3 +79,5 @@ Invoke-RestMethod -Uri $UploadUrl `
 
 # ===== UPDATE MARKER =====
 (Get-Date).ToString("yyyy-MM-dd HH:mm:ss") | Out-File $WeekMarker -Force
+
+# This Script is created by Emiel Maglalang
